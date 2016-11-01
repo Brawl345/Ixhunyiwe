@@ -1,5 +1,10 @@
-Planet
-------
+Ixhunyiwe
+==========
+Diese Repo beinhaltet den Code des [Planeten](https://de.wikipedia.org/wiki/Planet_(Software)) [Venus](http://www.intertwingly.net/code/venus/), welcher [Ixhunyiwe](http://planet.andibi.tk/) antreibt. Das [momentane Design](https://github.com/Brawl345/Ixhunyiwe/tree/master/themes/moz_planet) basiert auf [dem Design](https://github.com/mozilla/planet-content/tree/master/branches/planet) des [Mozilla Planeten](http://planet.mozilla.org/). Das [alte Design](https://github.com/Brawl345/Ixhunyiwe/tree/master/themes/personal) ist eine Modifikation von [asf](https://github.com/Brawl345/Ixhunyiwe/tree/master/themes/asf).
+
+Es folgt die README des Planeten.
+
+# Planet
 
 Planet is a flexible feed aggregator. It downloads news feeds published by
 web sites and aggregates their content together into a single combined feed,

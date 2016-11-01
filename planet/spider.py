@@ -260,7 +260,7 @@ def writeCache(feed_uri, feed_info, data):
            updated = [feedparser._parse_date_iso8601(data.feed.planet_updated)]
 
         if not updated or updated[-1] < activity_horizon:
-            msg = "no activity in %d days" % config.activity_threshold(feed_uri)
+            msg = "Keine Aktivitaet seit %d Tagen" % config.activity_threshold(feed_uri)
             log.info(msg)
             data.feed['planet_message'] = msg
 
