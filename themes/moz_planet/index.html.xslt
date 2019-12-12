@@ -292,7 +292,7 @@
 
         <div id='footer'>
           <div id='footer-content'>
-            <p>Betreut von <a href='https://andibi.tk'>ANDIBI.TK</a>. Angetrieben von <a href='http://www.intertwingly.net/code/venus/'>Planet Venus</a>. Design basierend auf <a href='https://github.com/mozilla/planet-content/tree/master/branches/planet'>Mozillas Planet-Theme</a>.</p>
+            <p>Angetrieben von <a href='http://www.intertwingly.net/code/venus/'>Planet Venus</a>. Design basierend auf <a href='https://github.com/mozilla/planet-content/tree/master/branches/planet'>Mozillas Planet-Theme</a>.</p>
           </div>
         </div>
 
